@@ -1,1 +1,1 @@
-# Sales-Prediction-Simple-Linear-Regression-
+Model which predicts sales based on the money spent on different platforms for marketing.
